@@ -9,9 +9,13 @@
     overflow-y: hidden;
 }
 .poster{
-    max-height: 100px;
+    max-height: 250px;
     margin-right: 10px;
 }
 .posters::-webkit-scrollbar{
     display: none;
+}
+.smallPoster{
+    max-height: 150px;
+    margin-right: 10px;
 }
