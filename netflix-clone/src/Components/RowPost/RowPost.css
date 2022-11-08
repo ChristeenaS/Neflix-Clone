@@ -9,7 +9,7 @@
     overflow-y: hidden;
 }
 .poster{
-    max-height: 250px;
+    max-height: 100px;
     margin-right: 10px;
 }
 .posters::-webkit-scrollbar{
